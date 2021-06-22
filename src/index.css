@@ -3,9 +3,9 @@
 }
 
 body {
-  min-height: 100vh;
-  display: flex;
-  font-weight: 400;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   font-family: sans-serif;
   background: #12c2e9;  /* fallback for old browsers */
   background: -webkit-linear-gradient(to right, #f64f59, #c471ed, #12c2e9);  /* Chrome 10-25, Safari 5.1-6 */
